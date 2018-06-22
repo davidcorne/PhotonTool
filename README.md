@@ -1,5 +1,11 @@
 # Anycubic Photon tool.
 
+This is a fork from [Rob2048/PhotonTool](https://github.com/Rob2048/PhotonTool). The only reason I forked it was that so I could host a site with this on.
+
+## Hosted ##
+
+This site is hosted at [https://sleepy-castle-21650.herokuapp.com/](https://sleepy-castle-21650.herokuapp.com/).
+
 ## Screenshots
 ![Screenshot](screenshots/dragon.png)
 
